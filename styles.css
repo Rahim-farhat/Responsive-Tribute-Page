@@ -1,0 +1,66 @@
+body{
+  width:100%;
+  background-color:Azure;
+  font-family: "Helvetica", Sans-Serif;
+  text-align:center;
+}
+h1{
+  margin: 5vh auto;
+  font-size:8vmin;
+  text-align:center;
+}
+p{
+  margin: 3vh auto;
+  font-size:4vmin;
+  text-align:center;
+}
+#img-div{
+  background-color:Gainsboro;
+  padding-top:1vh;
+  padding-bottom:1vh;
+  
+}
+
+main{
+  margin: 4vw auto;
+  padding:2vw 2vh;
+  width:70vw;
+  
+
+}
+
+#image{
+  max-width:100%;
+  height:auto;
+  display:block;
+  margin: 3vh auto;
+  padding: 3vh auto;
+
+}
+#tribute-info{
+  margin: 3vh auto;
+  font-size:5vmin;
+  text-align:center;
+
+}
+section{
+  margin: 1vw auto;
+  
+  width:60vw;
+
+}
+li{
+  margin: 3vh auto;
+  text-align:left;
+}
+#year{
+  font-weight: bold;
+}
+
+#footer{
+   margin: 4vw auto;
+  padding:2vw 2vh;
+  width:70vw;
+  background-color:Gainsboro;
+}
+
